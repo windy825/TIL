@@ -62,7 +62,7 @@ for i in range(int(input())):
 - `list` 는 비추천, `collection`의 `deque`를 이용한다.
 
   ```python
-  from collections import deque
+  from collections import deque  # deque : 양방향 큐 (stack과 큐 모두 가능)
   
   test001 = deque()   # 생성
   ```
