@@ -1,7 +1,7 @@
 ## PYTHON GAMER
 
 
-- 
+- 0216 python 기초 알고리즘 정렬
 - 0214 2차원 배열
 - 0212 스택과 큐
 - 0207 CSS, LAYOUT
